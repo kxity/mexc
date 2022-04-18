@@ -482,7 +482,7 @@ body {
 a.text-primary:hover,
 a.text-primary:focus,
 a.text-primary.active {
-  color: #b89eed !important;
+  color: #f5f2fb !important;
 }
 a.text-secondary:hover,
 a.text-secondary:focus,
@@ -1093,8 +1093,8 @@ a {
 }
 .cid-t2uWNX9O3H {
   background: #0d202d;
-  padding-top: 105px;
-  padding-bottom: 90px;
+  padding-top: 75px;
+  padding-bottom: 75px;
 }
 .cid-t2uWNX9O3H .image-block {
   margin: auto;
